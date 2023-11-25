@@ -1,4 +1,4 @@
-# Rebel
+# Rebel Knowledge Base from Text
 This is Repository based on a collab notebook from the article: 
 
 Building a Knowledge Base from Texts: a Full Practical Example
